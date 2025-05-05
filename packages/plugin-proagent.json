@@ -1,0 +1,33 @@
+{
+  "name": "@elizaos/plugin-proagent",
+  "description": "Plugin starter for elizaOS",
+  "repository": {
+    "type": "git",
+    "url": "github:elizaos-plugins/plugin-proagent"
+  },
+  "maintainers": [
+    {
+      "name": "blackflame007",
+      "github": "blackflame007"
+    }
+  ],
+  "categories": [],
+  "tags": [
+    "plugin"
+  ],
+  "versions": [
+    {
+      "version": "1.0.0-beta.40",
+      "gitBranch": "1.0.0-beta.40",
+      "gitTag": "v1.0.0-beta.40",
+      "runtimeVersion": "1.0.0-beta.41",
+      "releaseDate": "2025-05-05T22:28:20.718Z",
+      "deprecated": false
+    }
+  ],
+  "latestStable": null,
+  "latestVersion": "1.0.0-beta.40",
+  "type": "plugin",
+  "installable": true,
+  "platform": "universal"
+}
