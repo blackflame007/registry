@@ -115,5 +115,23 @@
       "project": [],
       "module": []
     }
+  },
+  "v2": {
+    "packages": {
+      "@elizaos/plugin-proagent": {
+        "name": "@elizaos/plugin-proagent",
+        "description": "Plugin starter for elizaOS",
+        "type": "plugin",
+        "versions": {
+          "1.0.0-beta.40": {
+            "version": "1.0.0-beta.40",
+            "runtimeVersion": "1.0.0-beta.41",
+            "platform": "universal",
+            "publishedAt": "2025-05-05T22:28:19.391Z",
+            "published": true
+          }
+        }
+      }
+    }
   }
 }
